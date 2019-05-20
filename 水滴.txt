@@ -1,0 +1,27 @@
+1. 电路CAD报告
+2. 传感器设计报告
+3. 检测技术实验报告
+4. CLAD考试
+5. 检测技术复习
+6. latex入门
+7. linux入门
+8. git&github使用流程（参考廖雪峰简要入门教程、菜鸟教程）
+
+
+*19/5/20
+1. 安装linux服务器远程管理工具:xshell xmanager xftp 		
+	xmanager管理其余两个软件。xshell是命令行，xftp用于传输文件（类似filezila 和putty）
+2. fork and download SPADE-matster
+	we need try running this model in linux server
+	
+3. get my own linux server:
+	user:ygj ip:192.168.100.158 port:22 password:123456
+	ICAT wifi:iCAT-5G sjtusome
+	
+4. TODO:
+	1. linux 远程安装Anaconda（见https://www.jianshu.com/p/e298b9d3afae）√
+	2. try running SPADE model in linux server
+		数据集准备
+		
+		
+*19/5/51
