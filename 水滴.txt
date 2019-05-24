@@ -1,11 +1,5 @@
-1. 电路CAD报告
-2. 传感器设计报告
-3. 检测技术实验报告
-4. CLAD考试
-5. 检测技术复习
-6. latex入门
-7. linux入门
-8. git&github使用流程（参考廖雪峰简要入门教程、菜鸟教程）
+阶段1：
+吴恩达cousera课程
 
 
 *19/5/20
@@ -14,7 +8,7 @@
 2. fork and download SPADE-matster
 	we need try running this model in linux server
 	
-3. get my own linux server:
+3. get my linux server:
 	user:ygj ip:192.168.100.158 port:22 password:123456
 	ICAT wifi:iCAT-5G sjtusome
 	
